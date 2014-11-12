@@ -3,4 +3,9 @@
   <groupId>com.ttProject.test</groupId>
   <artifactId>TestProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <parent>
+  	<groupId>com.ttProject</groupId>
+  	<artifactId>myLib.m2eHelper</artifactId>
+  	<version>0.0.1</version>
+  </parent>
 </project>
