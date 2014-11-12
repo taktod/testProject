@@ -8,4 +8,11 @@
   	<artifactId>myLib.m2eHelper</artifactId>
   	<version>0.0.1</version>
   </parent>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.ttProject</groupId>
+  		<artifactId>myLib.util</artifactId>
+  		<version>0.0.2-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
